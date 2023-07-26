@@ -17,4 +17,4 @@ Access to the Anaconda repository is covered by the [Anaconda Terms of Service](
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/ubuntu/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcondemos/blob/main/src/ubuntu/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

@@ -25,4 +25,4 @@ Running "Docker in Docker" requires the parent container to be run as `--privile
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/docker-in-docker/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcondemos/blob/main/src/docker-in-docker/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
