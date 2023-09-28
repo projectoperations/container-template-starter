@@ -13,4 +13,4 @@ Simple Debian container with Git installed.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/debian/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/cloud-developers/blob/main/src/debian/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

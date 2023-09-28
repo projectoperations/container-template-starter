@@ -14,4 +14,4 @@ Develop static sites with Jekyll, includes everything you need to get up and run
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/jekyll/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/cloud-developers/blob/main/src/jekyll/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
