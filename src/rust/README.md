@@ -13,4 +13,4 @@ Develop Rust based applications. Includes appropriate runtime args and everythin
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/rust/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/cloud-developers/blob/main/src/rust/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
