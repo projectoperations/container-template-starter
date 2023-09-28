@@ -1,0 +1,10 @@
+{
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.experimental.share.enabled": true,
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+    "appcenter.crashes": true,
+    "appcenter.linkTwoApps": true,
+    "remote-github.useSyncLoad": true,
+    "remote-github.mountPoint": "https://github.com/igeclouds/.github-private/blob/undefined/igecloudsdev/cloud-developers/.devcontainer"
+}
