@@ -14,4 +14,4 @@ Develop Go based applications. Includes appropriate runtime args, Go, common too
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/go/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/go/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
