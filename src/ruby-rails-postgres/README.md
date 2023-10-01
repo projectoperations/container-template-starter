@@ -14,4 +14,4 @@ Develop Ruby on Rails applications with Postgres. Includes a Rails application c
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/ruby-rails-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/ruby-rails-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

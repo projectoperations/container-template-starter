@@ -77,4 +77,4 @@ Use this container to run Jupyter notebooks.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/anaconda-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/anaconda-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
