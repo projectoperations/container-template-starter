@@ -16,4 +16,4 @@ Develop Java applications. Includes the JDK 8 (and 11) and Java extensions.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/java-8/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igewebs/Microsoft-Sovereign-Clouds/blob/main/src/java-8/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
