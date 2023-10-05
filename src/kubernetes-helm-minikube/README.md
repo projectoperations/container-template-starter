@@ -17,4 +17,4 @@ When configuring [Ingress](https://kubernetes.io/docs/concepts/services-networki
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/kubernetes-helm-minikube/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igewebs/Microsoft-Sovereign-Clouds/blob/main/src/kubernetes-helm-minikube/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
