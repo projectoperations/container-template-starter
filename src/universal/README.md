@@ -9,4 +9,4 @@ Use or extend the new Ubuntu-based default, large, multi-language universal cont
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/universal/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igewebs/Microsoft-Sovereign-Clouds/blob/main/src/universal/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
