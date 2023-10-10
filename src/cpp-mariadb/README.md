@@ -70,4 +70,4 @@ As these can create security vulnerabilities, it is advisable to not use this un
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/cpp-mariadb/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igewebs/Microsoft-Sovereign-Clouds/blob/main/src/cpp-mariadb/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
