@@ -5,5 +5,18 @@
         "GitHub.codespaces",
         "GitHub.vscode-pull-request-github"
     ],
-    "docfxLanguageServer.trace.server": "messages"
+    "docfxLanguageServer.trace.server": "messages",
+    "azureFunctions.enableOpenFromPortal": true,
+    "azureFunctions.enableJavaRemoteDebugging": true,
+    "azureFunctions.enableRemoteDebugging": true,
+    "appcenter.crashes": true,
+    "appcenter.linkTwoApps": true,
+    "asa.debug": true,
+    "azureResourceGroups.showHiddenTypes": true,
+    "azureApiManagement.advancedCreation": true,
+    "azureApiManagement.advancedPolicyAuthoringExperience": true,
+    "appService.enablePythonRemoteDebugging": true,
+    "gitConfigUser.profiles": [
+        
+    ]
 }
