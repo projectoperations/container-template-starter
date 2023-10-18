@@ -1,4 +1,4 @@
-# Microsoft Sovereign Clouds
+# Development Containers for IGE Clouds
 
 
 A development repository [devcontainers/template-starter](https://github.com/igecloudsdev/igedevcon) and [GitHub Action](https://github.com/devcontainers/action) are available to help bootstrap self-authored Templates.
