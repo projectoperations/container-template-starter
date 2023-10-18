@@ -13,4 +13,4 @@ Develop applications with Rust and PostgreSQL. Includes a Rust application conta
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/rust-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/.igecloudsdev/blob/main/src/rust-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

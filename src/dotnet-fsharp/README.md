@@ -13,4 +13,4 @@ Develop F# and .NET based applications. Includes all needed SDKs, extensions, an
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/dotnet-fsharp/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/.igecloudsdev/blob/main/src/dotnet-fsharp/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
