@@ -13,4 +13,4 @@ Simple Alpine container with Git installed.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/devcontainers/blob/main/src/alpine/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/igecloudsdev/.igecloudsdev/blob/main/src/alpine/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
